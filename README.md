@@ -7,7 +7,7 @@ This my variation of Dactyl Keyboard 5x6 with 5 keys for thumb cluster. I wanted
 # Keys
 - **Keycaps:** PBT ZDA Match 
 - **Khail Box Jades:** switches 
-- **Layout:** [url=https://github.com/MadRabbit/halmak]Halmak[/url]
+- **Layout:** [Halmak](https://github.com/MadRabbit/halmak)
 
 ## Print parameters
 - **Layer Height:** 0.12
